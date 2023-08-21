@@ -1,0 +1,26 @@
+
+body{
+  background-color: rgba(121, 118, 118, 0.848);
+}
+
+.strip{
+    
+    min-height: 450px;
+    background-repeat: no-repeat;
+    background-position-y: 25%;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.strip h1{
+    color: rgb(92, 88, 88);
+    
+}
+
+.row{
+ 
+  justify-content:space-between;  
+}
